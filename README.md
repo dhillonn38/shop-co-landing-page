@@ -38,7 +38,7 @@
 
 ## 📂 Project Structure
 
-````text
+```text
 ├── index.html        # Main HTML structure
 ├── style.scss        # Source SCSS file (Logic, Mixins, Media Queries)
 ├── style.css         # Compiled production-ready CSS
@@ -46,6 +46,7 @@
 ├── index.js          # Core JS logic (Swiper, Touch events, Section toggles)
 └── assets/           # Media assets (Images, Logos, Icons, and Badges)
 └── screenshoot/           # Media assets (Images)
+```
 
 ---
 
@@ -54,10 +55,10 @@
 Follow these steps to get a local copy of the project up and running:
 
 1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/kumawatpreetam/shop-co-landing-page.git]```
 
-```
+   ```bash
+   git clone [https://github.com/kumawatpreetam/shop-co-landing-page.git]
+   ```
 
 2. **Run Locally:**
 
@@ -73,4 +74,3 @@ Follow these steps to get a local copy of the project up and running:
 | **Technical Skills** | HTML, CSS, SCSS, JavaScript, Bootstrap, Java, and C                           |
 | **GitHub**           | [github.com/kumawatpreetam](https://github.com/kumawatpreetam)                |
 | **LinkedIn**         | [linkedin.com/in/kumawatpreetam](https://www.linkedin.com/in/kumawatpreetam/) |
-````
